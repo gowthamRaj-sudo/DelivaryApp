@@ -26,7 +26,7 @@ const NavNar = () => {
                 Products
               </Link>
                       </li>
-                      <li><input type='text' name='search'/></li>
+                      <li><input type='text' name='search' placeholder="Search Something..."/></li>
             <li>
               <Link to={"/cart"} element={<Cart />}>
                 Cart
