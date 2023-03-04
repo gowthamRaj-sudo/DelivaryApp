@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+.links li{
+  
+    padding-right: 30px;
+    
+    
+}
+.InputBase{
+    border-radius: 15px;
+    border: none;
+    
+}
